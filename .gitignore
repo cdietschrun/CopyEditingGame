@@ -1,0 +1,6 @@
+Assets/PackagedAssets/*
+Library/*
+Temp/*
+
+.vs/*
+obj/*
